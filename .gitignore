@@ -1,0 +1,13 @@
+# Base de datos local (Solo se ignora el archivo físico generado)
+paises.db
+paises.db-journal
+
+# Entornos virtuales locales (El profesor creará el suyo propio)
+venv/
+.venv/
+env/
+
+# Archivos temporales de compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
